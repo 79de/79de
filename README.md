@@ -1,7 +1,7 @@
 ## Hi there 🤔
 
 
-### About me
+### Hello, I'm WhisperCode
  - **嗯？**
 <!--
 **79de/79de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
